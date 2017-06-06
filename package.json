@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-autosnog",
+  "version": "0.1.0",
+  "description": "Automatically add [`snog`](https://github.com/joshwnj/snog) logs to functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshwnj/babel-plugin-autosnog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshwnj/babel-plugin-autosnog/issues"
+  },
+  "homepage": "https://github.com/joshwnj/babel-plugin-autosnog#readme"
+}
