@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joshwnj/babel-plugin-autosnog/issues"
   },
-  "homepage": "https://github.com/joshwnj/babel-plugin-autosnog#readme"
+  "homepage": "https://github.com/joshwnj/babel-plugin-autosnog#readme",
+  "dependencies": {
+    "snog": "^0.2.0"
+  }
 }
